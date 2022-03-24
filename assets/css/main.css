@@ -3224,3 +3224,21 @@ input, select, textarea {
 			}
 
 	}
+
+	.hyperlink {
+		text-decoration: none;
+		color: #A2A2A2;
+	}
+
+	.linked-in-logo {
+		height: 30px;
+	}
+
+	.linked-in-logo-anchor {
+		text-decoration: none;
+	}
+
+	.submit-button {
+		margin: auto;
+		margin-top: 20px;
+	}
